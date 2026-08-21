@@ -1,27 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="110" viewBox="0 0 640 110">
   <rect width="100%" height="100%" fill="#0D1117"/>
   <g fill="#8B5CF6" font-family="Segoe UI, Roboto, Arial, sans-serif">
     <text x="20" y="38" font-size="18" font-weight="700">Contribution graph</text>
-    <text x="20" y="62" font-size="12" fill="#C9D1D9">Placeholder image added to fix broken README link</text>
+    <text x="20" y="62" font-size="12" fill="#C9D1D9">Placeholder image added to fix README link</text>
   </g>
   <g transform="translate(20,74)">
-    <!-- simple grid placeholder -->
     <g fill="#161B22">
-      <rect x="0" y="0" width="8" height="8" rx="2"/>
-      <rect x="12" y="0" width="8" height="8" rx="2"/>
-      <rect x="24" y="0" width="8" height="8" rx="2"/>
-      <rect x="36" y="0" width="8" height="8" rx="2"/>
-      <rect x="48" y="0" width="8" height="8" rx="2"/>
-    </g>
-    <g transform="translate(0,12)" fill="#21262D">
-      <rect x="0" y="0" width="8" height="8" rx="2"/>
-      <rect x="12" y="0" width="8" height="8" rx="2"/>
-      <rect x="24" y="0" width="8" height="8" rx="2"/>
-      <rect x="36" y="0" width="8" height="8" rx="2"/>
-      <rect x="48" y="0" width="8" height="8" rx="2"/>
-    </g>
-    <g transform="translate(0,24)" fill="#2D333B">
       <rect x="0" y="0" width="8" height="8" rx="2"/>
       <rect x="12" y="0" width="8" height="8" rx="2"/>
       <rect x="24" y="0" width="8" height="8" rx="2"/>
