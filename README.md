@@ -3,7 +3,7 @@
 <img src="./output/header-capsule.svg" alt="Capsule header graphic: Hocine Bouanem"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="./output/typing-svg.svg" alt="Animated typing: Full-Stack & Systems Engineer; Cybersecurity; AI / Big Data"/>
+  <img src="./output/typing-svg.svg" alt="Animated typing: Full-Stack & Systems Engineer; Cybersecurity"/>
 </a>
 
 <br/>
