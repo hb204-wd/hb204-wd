@@ -1,4 +1,4 @@
-[# 👋 Hi, I'm Hocine Bouanem
+ 👋 Hi, I'm Hocine Bouanem
 
 **Full Stack Developer | DevOps & Systems Engineer | Cybersecurity Enthusiast**
 
@@ -94,4 +94,4 @@ Secure password management with 4 interfaces (GUI, TUI, REST API, SPA) and multi
 *Building secure, scalable solutions that matter.*
 
 </div>
-](https://github.com/hb204-wd)
+
