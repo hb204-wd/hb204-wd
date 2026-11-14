@@ -3,7 +3,7 @@
 **Full Stack Developer | DevOps & Systems Engineer | Cybersecurity Enthusiast**
 
 📧 [bouanemhocine04@gmail.com](mailto:bouanemhocine04@gmail.com) | 📱 +33 7 82 64 59 52 | 📍 Paris, France  
-🔗 [LinkedIn](https://linkedin.com/in/hocine-bouanem-1bb020424) | 💻 [GitHub](https://github.com/hb204-wd)
+🔗 [LinkedIn](https://linkedin.com/in/hocine-bouanem-1bb020424) 
 
 ---
 
